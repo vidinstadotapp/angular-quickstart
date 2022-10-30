@@ -1,7 +1,7 @@
 # Angular on Netlify Quick Start Template    
 ![netlify + angular logo](https://res.cloudinary.com/dzkoxrsdj/image/upload/v1646339469/angular_wzrs5o.png)
 
-This is a bare-bones Angular project that has everything you need to quickly deploy it to [Netlify](https://netlify.com). 
+This is a bare-bones Angular project that has everything you need to quickly deploy it to 1 [Netlify](https://netlify.com). 
 
 Click this button and it will help you create a new repo, create a new Netlify project, and deploy!
 
